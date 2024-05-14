@@ -1,2 +1,2 @@
 # instagramrotatepfp
-Rotating instagram profile picture through its API. Please note that this is only for educational purposes and does not aim to break TOS...
+Rotating Instagram profile pictures through its API. Please note that this is only for educational purposes and does not aim to break TOS... All you gotta do is make sure in the same folder you got an image that you want to rotate and fits the dimensions required for Instagram's pfps (although I automatically scale it), and then run the program utilizing your username, password, and email. Any usage is the responsibility of the user, this **project** was made to learn how APIs work.
