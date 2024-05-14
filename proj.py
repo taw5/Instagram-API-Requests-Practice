@@ -3,7 +3,7 @@ import time
 import requests
 from PIL import Image
 
-class Trenstagram:
+class Trenstagram: # creds to https://github.com/Trenblack/Trenstagram for the simple and easy-to-use template for insta's API.
     def __init__(self):
         self.BASE_URL = 'https://www.instagram.com/'
         self.USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:81.0) Gecko/20100101 Firefox/81.0"
